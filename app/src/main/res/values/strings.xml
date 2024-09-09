@@ -1,0 +1,162 @@
+<resources>
+    <string name="app_name">myQuizApp</string>
+    <!-- Question 1 -->
+    <string name="question_1">What is the holy book of Islam?</string>
+    <string name="option_1_1">Torah</string>
+    <string name="option_1_2">Bible</string>
+    <string name="option_1_3">Quran</string>
+    <string name="option_1_4">Vedas</string>
+    <string name="answer_1">Quran</string>
+
+    <!-- Question 2 -->
+    <string name="question_2">What is the term for the Islamic declaration of faith?</string>
+    <string name="option_2_1">Salah</string>
+    <string name="option_2_2">Zakat</string>
+    <string name="option_2_3">Shahada</string>
+    <string name="option_2_4">Hajj</string>
+    <string name="answer_2">Shahada</string>
+
+    <!-- Question 3 -->
+    <string name="question_3">How many times a day are Muslims required to pray?</string>
+    <string name="option_3_1">Three</string>
+    <string name="option_3_2">Four</string>
+    <string name="option_3_3">Five</string>
+    <string name="option_3_4">Six</string>
+    <string name="answer_3">Five</string>
+
+    <!-- Question 4 -->
+    <string name="question_4">What is the name of the Islamic fast observed during the month of Ramadan?</string>
+    <string name="option_4_1">Sawm</string>
+    <string name="option_4_2">Hajj</string>
+    <string name="option_4_3">Zakat</string>
+    <string name="option_4_4">Salah</string>
+    <string name="answer_4">Sawm</string>
+
+    <!-- Question 5 -->
+    <string name="question_5">What is the pilgrimage to Mecca that every Muslim must undertake at least once in their lifetime called?</string>
+    <string name="option_5_1">Ramadan</string>
+    <string name="option_5_2">Umrah</string>
+    <string name="option_5_3">Hajj</string>
+    <string name="option_5_4">Zakat</string>
+    <string name="answer_5">Hajj</string>
+
+    <!-- Question 6 -->
+    <string name="question_6">What is the term for the charitable giving in Islam, one of the Five Pillars?</string>
+    <string name="option_6_1">Sawm</string>
+    <string name="option_6_2">Zakat</string>
+    <string name="option_6_3">Hajj</string>
+    <string name="option_6_4">Shahada</string>
+    <string name="answer_6">Zakat</string>
+
+    <!-- Question 7 -->
+    <string name="question_7">What does the Arabic term "Islam" mean?</string>
+    <string name="option_7_1">Peace</string>
+    <string name="option_7_2">Submission</string>
+    <string name="option_7_3">Faith</string>
+    <string name="option_7_4">Guidance</string>
+    <string name="answer_7">Submission</string>
+
+    <!-- Question 8 -->
+    <string name="question_8">Which city is considered the holiest in Islam?</string>
+    <string name="option_8_1">Medina</string>
+    <string name="option_8_2">Cairo</string>
+    <string name="option_8_3">Mecca</string>
+    <string name="option_8_4">Jerusalem</string>
+    <string name="answer_8">Mecca</string>
+
+    <!-- Question 9 -->
+    <string name="question_9">What is the name of the Friday prayer in Islam?</string>
+    <string name="option_9_1">Fajr</string>
+    <string name="option_9_2">Dhuhr</string>
+    <string name="option_9_3">Jumuah</string>
+    <string name="option_9_4">Asr</string>
+    <string name="answer_9">Jumuah</string>
+
+    <!-- Question 10 -->
+    <string name="question_10">What is the term for the Islamic law derived from the Quran and Hadith?</string>
+    <string name="option_10_1">Sharia</string>
+    <string name="option_10_2">Sunnah</string>
+    <string name="option_10_3">Fiqh</string>
+    <string name="option_10_4">Tafsir</string>
+    <string name="answer_10">Sharia</string>
+
+    <!-- Question 11 -->
+    <string name="question_11">Who is considered the last prophet in Islam?</string>
+    <string name="option_11_1">Moses</string>
+    <string name="option_11_2">Jesus</string>
+    <string name="option_11_3">Muhammad</string>
+    <string name="option_11_4">Abraham</string>
+    <string name="answer_11">Muhammad</string>
+
+    <!-- Question 12 -->
+    <string name="question_12">What is the Arabic term for the community of Muslim believers?</string>
+    <string name="option_12_1">Ummah</string>
+    <string name="option_12_2">Jamiah</string>
+    <string name="option_12_3">Jamaat</string>
+    <string name="option_12_4">Fiqh</string>
+    <string name="answer_12">Ummah</string>
+
+    <!-- Question 13 -->
+    <string name="question_13">In Islam, what is the term for the act of giving up ones own desires for the sake of Allah?</string>
+    <string name="option_13_1">Sawm</string>
+    <string name="option_13_2">Jihad</string>
+    <string name="option_13_3">Zakat</string>
+    <string name="option_13_4">Ibadah</string>
+    <string name="answer_13">Jihad</string>
+
+    <!-- Question 14 -->
+    <string name="question_14">What is the term for the Islamic practice of fasting from dawn until sunset during Ramadan?</string>
+    <string name="option_14_1">Hajj</string>
+    <string name="option_14_2">Zakat</string>
+    <string name="option_14_3">Sawm</string>
+    <string name="option_14_4">Salah</string>
+    <string name="answer_14">Sawm</string>
+
+    <!-- Question 15 -->
+    <string name="question_15">What is the name of the angel who delivered the Quran to Prophet Muhammad?</string>
+    <string name="option_15_1">Gabriel</string>
+    <string name="option_15_2">Michael</string>
+    <string name="option_15_3">Raphael</string>
+    <string name="option_15_4">Azrael</string>
+    <string name="answer_15">Gabriel</string>
+
+    <!-- Question 16 -->
+    <string name="question_16">What is the term for the annual Islamic holiday that marks the end of Ramadan?</string>
+    <string name="option_16_1">Eid al-Fitr</string>
+    <string name="option_16_2">Eid al-Adha</string>
+    <string name="option_16_3">Ramadan</string>
+    <string name="option_16_4">Mawlid</string>
+    <string name="answer_16">Eid al-Fitr</string>
+
+    <!-- Question 17 -->
+    <string name="question_17">Which of the following is a key concept in Islam that refers to the oneness of God?</string>
+    <string name="option_17_1">Tawhid</string>
+    <string name="option_17_2">Shirk</string>
+    <string name="option_17_3">Hijra</string>
+    <string name="option_17_4">Zakat</string>
+    <string name="answer_17">Tawhid</string>
+
+    <!-- Question 18 -->
+    <string name="question_18">What is the term for the Islamic practice of ritual purification before prayers?</string>
+    <string name="option_18_1">Wudu</string>
+    <string name="option_18_2">Ghusl</string>
+    <string name="option_18_3">Salah</string>
+    <string name="option_18_4">Hajj</string>
+    <string name="answer_18">Wudu</string>
+
+    <!-- Question 19 -->
+    <string name="question_19">What does the Arabic term "Hadith" refer to?</string>
+    <string name="option_19_1">The sayings and actions of Prophet Muhammad</string>
+    <string name="option_19_2">The holy book of Islam</string>
+    <string name="option_19_3">The Islamic law</string>
+    <string name="option_19_4">The community of Muslim believers</string>
+    <string name="answer_19">The sayings and actions of Prophet Muhammad</string>
+
+    <!-- Question 20 -->
+    <string name="question_20">What is the primary language of the Quran?</string>
+    <string name="option_20_1">Arabic</string>
+    <string name="option_20_2">Hebrew</string>
+    <string name="option_20_3">Persian</string>
+    <string name="option_20_4">Turkish</string>
+    <string name="answer_20">Arabic</string>
+</resources>
