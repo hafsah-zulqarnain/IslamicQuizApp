@@ -82,11 +82,11 @@
 
     <!-- Question 11 -->
     <string name="question_11">Who is considered the last prophet in Islam?</string>
-    <string name="option_11_1">Moses</string>
-    <string name="option_11_2">Jesus</string>
-    <string name="option_11_3">Muhammad</string>
-    <string name="option_11_4">Abraham</string>
-    <string name="answer_11">Muhammad</string>
+    <string name="option_11_1">Moses(AS)</string>
+    <string name="option_11_2">Jesus(AS)</string>
+    <string name="option_11_3">Muhammad(SAW)</string>
+    <string name="option_11_4">Abraham(AS)</string>
+    <string name="answer_11">Muhammad(SAW)</string>
 
     <!-- Question 12 -->
     <string name="question_12">What is the Arabic term for the community of Muslim believers?</string>
@@ -114,11 +114,11 @@
 
     <!-- Question 15 -->
     <string name="question_15">What is the name of the angel who delivered the Quran to Prophet Muhammad?</string>
-    <string name="option_15_1">Gabriel</string>
-    <string name="option_15_2">Michael</string>
-    <string name="option_15_3">Raphael</string>
-    <string name="option_15_4">Azrael</string>
-    <string name="answer_15">Gabriel</string>
+    <string name="option_15_1">Gabriel(AS)</string>
+    <string name="option_15_2">Michael(AS)</string>
+    <string name="option_15_3">Raphael(AS)</string>
+    <string name="option_15_4">Azrael(AS)</string>
+    <string name="answer_15">Gabriel(AS)</string>
 
     <!-- Question 16 -->
     <string name="question_16">What is the term for the annual Islamic holiday that marks the end of Ramadan?</string>
@@ -146,11 +146,11 @@
 
     <!-- Question 19 -->
     <string name="question_19">What does the Arabic term "Hadith" refer to?</string>
-    <string name="option_19_1">The sayings and actions of Prophet Muhammad</string>
+    <string name="option_19_1">The sayings and actions of Prophet Muhammad(SAW)</string>
     <string name="option_19_2">The holy book of Islam</string>
     <string name="option_19_3">The Islamic law</string>
     <string name="option_19_4">The community of Muslim believers</string>
-    <string name="answer_19">The sayings and actions of Prophet Muhammad</string>
+    <string name="answer_19">The sayings and actions of Prophet Muhammad(SAW)</string>
 
     <!-- Question 20 -->
     <string name="question_20">What is the primary language of the Quran?</string>
